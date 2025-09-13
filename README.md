@@ -6,7 +6,6 @@ The goal is to practice **problem-solving**, **algorithmic thinking**, and **pro
 ## Features
 - Solutions organized by problem number (e.g., problem_001.py, problem_002.cpp)
 - Multiple programming languages: Python, C, C++
-- Clear code with comments and explanations
 - Efficient algorithms where possible (e.g., prime factorization, largest product calculations)
 
 ## Usage
