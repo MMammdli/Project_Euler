@@ -7,11 +7,12 @@ while n < len(num):
 
 production_of_numbers = []
 for i in numbers:
-    product = 1
+    multiplication = 1
     while i > 0:
         q = i % 10
-        product *= q
+        multiplication *= q
         i = i // 10
-    production_of_numbers.append(product)
+    production_of_numbers.append(multiplication)
 
 print(f"Largest product of thirteen adjacent digits: {max(production_of_numbers)}")
+
